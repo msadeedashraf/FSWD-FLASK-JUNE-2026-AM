@@ -91,3 +91,25 @@ pip install Flask
 ```
 
 ![](/Assets/flask-hello-world-1.png)
+
+- create a app.py file in the hello-world folder 
+
+![](/Assets/flask-hello-world-2.png)
+
+```
+@app.route("/")
+def hello_world():
+    return "<p>Hello, World!</p>"
+
+if __name__ == "__main__":
+    app.run(debug=True)
+```
+
+![](/Assets/flask-hello-world-3.png)
+
+```
+python app.py
+```
+- Open the browser and copy the highligted url (http://127.0.0.1:5000/)
+
+![](/Assets/flask-hello-world-3.png)
