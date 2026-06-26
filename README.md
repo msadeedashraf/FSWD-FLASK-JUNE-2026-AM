@@ -112,4 +112,4 @@ python app.py
 ```
 - Open the browser and copy the highligted url (http://127.0.0.1:5000/)
 
-![](/Assets/flask-hello-world-4.png.png)
+![](/Assets/flask-hello-world-4.png)
