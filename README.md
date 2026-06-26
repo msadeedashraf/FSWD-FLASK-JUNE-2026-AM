@@ -66,7 +66,7 @@ def home(request):
 **Recommendation:** If you're a beginner learning Python web development, start with Flask to understand web fundamentals. If you're building a production-ready application with authentication, database models, and admin functionality, Django can save significant development time.
 
 ## Big Picture
-[Big Picture](/Assets/big-picture.png)
+![Big Picture](/Assets/big-picture.png)
 
 
 ## Flask Quick start
