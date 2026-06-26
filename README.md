@@ -6,8 +6,8 @@
 ## Create Environtment
 
 ```
-mkdir myproject
-cd myproject
+mkdir hello-world
+cd hello-world
 py -3 -m venv my-flask-env
 ```
 
