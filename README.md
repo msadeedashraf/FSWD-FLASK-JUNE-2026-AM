@@ -1,5 +1,8 @@
 # FSWD-FLASK-JUNE-2026-AM
-## Why Flask
+## What is Flask?
+
+-  Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
+
 **Flask** and **Django** are both popular Python web frameworks, but they follow different philosophies.
 
 | Feature           | Flask                                  | Django                                                  |
@@ -62,7 +65,7 @@ def home(request):
 
 **Recommendation:** If you're a beginner learning Python web development, start with Flask to understand web fundamentals. If you're building a production-ready application with authentication, database models, and admin functionality, Django can save significant development time.
 
- 
+
 [](/Assets/big-picture.png)
 
 ## Flask Quick start
