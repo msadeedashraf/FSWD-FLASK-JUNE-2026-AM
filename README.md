@@ -1,4 +1,7 @@
 # FSWD-FLASK-JUNE-2026-AM
+## Why Flask
+
+[](/Assets/big-picture.png)
 
 ## Flask Quick start
 [Flask](https://flask.palletsprojects.com/en/stable/quickstart/)
